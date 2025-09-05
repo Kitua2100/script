@@ -153,9 +153,9 @@ systemctl restart xray
 ## 📞 Support
 
 ### Getting Help
-- **Telegram**: https://t.me/emmkash
+- **Telegram**: https://t.me/francis
 - **WhatsApp**: wa.me/+254717640862
-- **Email**: EMMKASH20@GMAIL.COM
+- **Email**: FRANCISKITUA2100@GMAIL.COM 
 
 ### Before Asking for Help
 1. Check this README
