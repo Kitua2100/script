@@ -153,7 +153,7 @@ systemctl restart xray
 ## 📞 Support
 
 ### Getting Help
-- **Telegram**: https://t.me/francis
+- **Telegram**: https://t.me/franciskitua 
 - **WhatsApp**: wa.me/+254717640862
 - **Email**: FRANCISKITUA2100@GMAIL.COM 
 
