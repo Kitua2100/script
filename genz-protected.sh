@@ -1,6 +1,6 @@
 #!/bin/bash
-# EMMKASH VPN Script - Protected Version
-# Copyright (c) 2024 EMMKASH Technologies Kenya
+# FRANCIS VPN Script - Protected Version
+# Copyright (c) 2024 FRANCIS Technologies Kenya
 # Unauthorized use is strictly prohibited
 
 # Anti-debugging protection
@@ -101,7 +101,7 @@ _check_integrity
 _check_network
 
 # Main script logic (obfuscated)
-$_f -e "$_e=== EMMKASH VPN INSTALLER ===$_b"
+$_f -e "$_e=== FRANCIS VPN INSTALLER ===$_b"
 $_f -e "$_cProtected Version - All Rights Reserved$_b"
 $_f -e ""
 
