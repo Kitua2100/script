@@ -3,8 +3,8 @@
 # UNIVERSAL VPN AUTO-INSTALLER
 # System Request : Debian 8+/Ubuntu 16.04+
 # Develovers » FRANCIS
-# Email      » FRANCIS20@GMAIL.COM
-# telegram   » https://t.me/emmkash
+# Email      » FRANCIS2100@GMAIL.COM
+# telegram   » https://t.me/franciskitua 
 # whatsapp   » wa.me/+254717640862
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # UNIVERSAL VERSION - WORKS WITH ALL UBUNTU/DEBIAN VERSIONS
