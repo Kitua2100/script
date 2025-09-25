@@ -177,8 +177,8 @@ chmod +x menu-encrypted.sh
 
 For support or licensing:
 - **WhatsApp**: +254717640862
-- **Telegram**: t.me/emmkash
-- **Email**: EMMKASH20@GMAIL.COM
+- **Telegram**: t.me/francikitua
+- **Email**: franciskitua2100@gmail.com
 
 ### **Legal Notice**
 
